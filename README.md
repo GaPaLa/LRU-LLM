@@ -6,4 +6,4 @@ simply:
   - using the LRU layer within a transformer-style architecture in place of self-attention
   - adding character-level and llama-2 tokenizers
   - implementing autoregressive generation with nucleus sampling
-  - adding a simple data loading and training pipeline for TinyStories\
+  - adding a simple data loading and training pipeline for TinyStories
